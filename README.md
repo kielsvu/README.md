@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Twitter-@HANDLE-09090b?style=flat-square&logo=x&logoColor=white&labelColor=18181b" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="https://USERNAME.github.io">
+  <a href="https://kielsvu.github.io">
     <img src="https://img.shields.io/badge/Portfolio-username.github.io-09090b?style=flat-square&logo=googlechrome&logoColor=white&labelColor=18181b" alt="Portfolio" />
   </a>
   &nbsp;
@@ -36,7 +36,7 @@
 </p>
 
 <!-- ─── PROFILE VIEWS ────────────────────────────────────────── -->
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=09090b&labelColor=18181b&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=kielsvu&style=flat-square&color=09090b&labelColor=18181b&label=profile+views" alt="Profile views" />
 
 </div>
 
@@ -66,7 +66,7 @@ Available    →  Open to freelance and full-time roles
 
 ## Right Now
 
-- Working on &nbsp;[**Project Name**](https://github.com/USERNAME/REPO) — one sentence on what it is
+- Working on &nbsp;[**Project Name**](https://github.com/kielsvu/REPO) — one sentence on what it is
 - Learning &nbsp;&nbsp;&nbsp;&nbsp;Rust / WebAssembly / whatever you are currently studying
 - Reading &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Book or resource you are going through
 - Writing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blog post, docs, or notes on a topic
@@ -123,14 +123,14 @@ Available    →  Open to freelance and full-time roles
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=09090b&icon_color=ffffff&title_color=ffffff&text_color=a1a1aa&rank_icon=github&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=kielsvu&show_icons=true&hide_border=true&bg_color=09090b&icon_color=ffffff&title_color=ffffff&text_color=a1a1aa&rank_icon=github&include_all_commits=true&count_private=true"
         alt="GitHub stats"
         height="180"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=09090b&title_color=ffffff&text_color=a1a1aa&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielsvu&layout=compact&hide_border=true&bg_color=09090b&title_color=ffffff&text_color=a1a1aa&langs_count=8"
         alt="Top languages"
         height="180"
       />
@@ -141,7 +141,7 @@ Available    →  Open to freelance and full-time roles
 <br />
 
 <img
-  src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=09090b&ring=ffffff&fire=a1a1aa&currStreakLabel=ffffff&sideLabels=a1a1aa&dates=52525b&currStreakNum=ffffff&sideNums=ffffff&stroke=18181b"
+  src="https://streak-stats.demolab.com?user=kielsvu&hide_border=true&background=09090b&ring=ffffff&fire=a1a1aa&currStreakLabel=ffffff&sideLabels=a1a1aa&dates=52525b&currStreakNum=ffffff&sideNums=ffffff&stroke=18181b"
   alt="GitHub streak"
   height="180"
 />
@@ -161,24 +161,24 @@ Available    →  Open to freelance and full-time roles
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/USERNAME/PROJECT-ONE">Project One</a></h3>
+      <h3><a href="https://github.com/kielsvu/PROJECT-ONE">Project One</a></h3>
       <p>One or two sentences. What it does and what makes it worth looking at.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/USERNAME/PROJECT-ONE?style=flat-square&color=09090b&labelColor=18181b" alt="Stars" />
+        <img src="https://img.shields.io/github/stars/kielsvu/PROJECT-ONE?style=flat-square&color=09090b&labelColor=18181b" alt="Stars" />
         &nbsp;
-        <img src="https://img.shields.io/github/last-commit/USERNAME/PROJECT-ONE?style=flat-square&color=09090b&labelColor=18181b&label=updated" alt="Last commit" />
+        <img src="https://img.shields.io/github/last-commit/kielsvu/PROJECT-ONE?style=flat-square&color=09090b&labelColor=18181b&label=updated" alt="Last commit" />
       </p>
       <p>
         <img src="https://skillicons.dev/icons?i=ts,react,tailwind&theme=dark&perline=5" height="24" alt="Stack" />
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/USERNAME/PROJECT-TWO">Project Two</a></h3>
+      <h3><a href="https://github.com/kielsvu/PROJECT-TWO">Project Two</a></h3>
       <p>One or two sentences. What it does and what makes it worth looking at.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/USERNAME/PROJECT-TWO?style=flat-square&color=09090b&labelColor=18181b" alt="Stars" />
+        <img src="https://img.shields.io/github/stars/kielsvu/PROJECT-TWO?style=flat-square&color=09090b&labelColor=18181b" alt="Stars" />
         &nbsp;
-        <img src="https://img.shields.io/github/last-commit/USERNAME/PROJECT-TWO?style=flat-square&color=09090b&labelColor=18181b&label=updated" alt="Last commit" />
+        <img src="https://img.shields.io/github/last-commit/kielsvu/PROJECT-TWO?style=flat-square&color=09090b&labelColor=18181b&label=updated" alt="Last commit" />
       </p>
       <p>
         <img src="https://skillicons.dev/icons?i=python,postgres,docker&theme=dark&perline=5" height="24" alt="Stack" />
@@ -187,24 +187,24 @@ Available    →  Open to freelance and full-time roles
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/USERNAME/PROJECT-THREE">Project Three</a></h3>
+      <h3><a href="https://github.com/kielsvu/PROJECT-THREE">Project Three</a></h3>
       <p>One or two sentences. What it does and what makes it worth looking at.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/USERNAME/PROJECT-THREE?style=flat-square&color=09090b&labelColor=18181b" alt="Stars" />
+        <img src="https://img.shields.io/github/stars/kielsvu/PROJECT-THREE?style=flat-square&color=09090b&labelColor=18181b" alt="Stars" />
         &nbsp;
-        <img src="https://img.shields.io/github/last-commit/USERNAME/PROJECT-THREE?style=flat-square&color=09090b&labelColor=18181b&label=updated" alt="Last commit" />
+        <img src="https://img.shields.io/github/last-commit/kielsvu/PROJECT-THREE?style=flat-square&color=09090b&labelColor=18181b&label=updated" alt="Last commit" />
       </p>
       <p>
         <img src="https://skillicons.dev/icons?i=go,linux&theme=dark&perline=5" height="24" alt="Stack" />
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/USERNAME/PROJECT-FOUR">Project Four</a></h3>
+      <h3><a href="https://github.com/kielsvu/PROJECT-FOUR">Project Four</a></h3>
       <p>One or two sentences. What it does and what makes it worth looking at.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/USERNAME/PROJECT-FOUR?style=flat-square&color=09090b&labelColor=18181b" alt="Stars" />
+        <img src="https://img.shields.io/github/stars/kielsvu/PROJECT-FOUR?style=flat-square&color=09090b&labelColor=18181b" alt="Stars" />
         &nbsp;
-        <img src="https://img.shields.io/github/last-commit/USERNAME/PROJECT-FOUR?style=flat-square&color=09090b&labelColor=18181b&label=updated" alt="Last commit" />
+        <img src="https://img.shields.io/github/last-commit/kielsvu/PROJECT-FOUR?style=flat-square&color=09090b&labelColor=18181b&label=updated" alt="Last commit" />
       </p>
       <p>
         <img src="https://skillicons.dev/icons?i=nextjs,postgres&theme=dark&perline=5" height="24" alt="Stack" />
@@ -225,7 +225,7 @@ Available    →  Open to freelance and full-time roles
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=09090b&color=a1a1aa&line=ffffff&point=ffffff&area=true&area_color=27272a&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kielsvu&bg_color=09090b&color=a1a1aa&line=ffffff&point=ffffff&area=true&area_color=27272a&hide_border=true"
     alt="Contribution graph"
     width="100%"
   />
